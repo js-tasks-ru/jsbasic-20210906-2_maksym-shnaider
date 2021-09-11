@@ -4,7 +4,3 @@ function checkSpam(str) {
 
   return smallStr.includes('1xbet now') || smallStr.includes('xxx');
 }
-
-alert( checkSpam('1XbeT now')) 
-alert( checkSpam('free xxxxx')) 
-alert( checkSpam('innocent rabbit')) 
